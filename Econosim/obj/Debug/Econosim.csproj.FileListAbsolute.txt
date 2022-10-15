@@ -1,0 +1,11 @@
+C:\Users\David\source\repos\Econosim\bin\Debug\Econosim.exe.config
+C:\Users\David\source\repos\Econosim\bin\Debug\Econosim.exe
+C:\Users\David\source\repos\Econosim\bin\Debug\Econosim.pdb
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.Properties.Resources.resources
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.csproj.GenerateResource.cache
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.exe
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.pdb
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.Inicio.resources
+C:\Users\David\source\repos\Econosim\obj\Debug\Econosim.Menu.resources
